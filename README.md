@@ -5,7 +5,7 @@ Tento projekt představuje mé osobní webové portfolio, které slouží jako u
 ## Live Demo
 
 Portfolio je dostupné na adrese:  
-[https://jzatloukal.github.io/portfolio_Jan_Zatloukal/](https://jzatloukal.github.io/portfolio_Jan_Zatloukal/)
+[[https://jzatloukal.github.io/portfolio_Jan_Zatloukal/](https://jzatloukal.github.io/portfolio_Jan_Zatloukal/](https://jzatloukal.github.io/Portfolio/))
 
 ## Obsah
 
